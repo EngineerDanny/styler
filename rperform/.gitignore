@@ -1,6 +1,6 @@
 *
-!script.R
-!config.json
 !.gitignore
-!header.R
+!config.json
 !footer.R
+!header.R
+!script.R
