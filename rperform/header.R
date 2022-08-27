@@ -3,8 +3,7 @@
 
 glue::glue(
   "The image below represents the test results generated",
-  " after running `",
-  test_function,
+  " after running the tests`",
   "` function",
   " on this PR branch. ",
   "Check out the test results data set in csv ",
