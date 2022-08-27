@@ -1,0 +1,91 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","can style .Rmd files","runtime (in seconds)","pass",1.1040858,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"2","can style .Rmd files","runtime (in seconds)","pass",1.115062,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"3","can style .Rmd files","runtime (in seconds)","pass",1.1331158,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"4","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0696162,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"5","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0702012,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"6","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0756322,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"7","test-rmd.R","runtime (in seconds)","pass",1.6975841,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"8","test-rmd.R","runtime (in seconds)","pass",1.1046938,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"9","test-rmd.R","runtime (in seconds)","pass",1.0868634,"Merge 0ff35dabe","18254bb3d2a74b6bd3ef4ca0d18479acb3aa694e",2022-08-27 21:29:23
+"10","can style .Rmd files","runtime (in seconds)","pass",1.1300677,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"11","can style .Rmd files","runtime (in seconds)","pass",1.1366534,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"12","can style .Rmd files","runtime (in seconds)","pass",1.1360516,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"13","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0696292,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"14","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0701783,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"15","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.075151,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"16","test-rmd.R","runtime (in seconds)","pass",1.13319,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"17","test-rmd.R","runtime (in seconds)","pass",1.1866957,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"18","test-rmd.R","runtime (in seconds)","pass",1.0479385,"update script","0ff35dabe2126718275b92f8ea8bf853c0b6d19d",2022-08-27 21:29:20
+"19","can style .Rmd files","runtime (in seconds)","pass",1.1223208,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"20","can style .Rmd files","runtime (in seconds)","pass",1.1454453,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"21","can style .Rmd files","runtime (in seconds)","pass",1.1679681,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"22","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0691832,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"23","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0697401,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"24","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0750348,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"25","test-rmd.R","runtime (in seconds)","pass",1.149777,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"26","test-rmd.R","runtime (in seconds)","pass",1.1047889,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"27","test-rmd.R","runtime (in seconds)","pass",1.09698,"test","fcd44f196f61daa7b48b3b205c922469e793a5fd",2022-08-27 21:08:23
+"28","can style .Rmd files","runtime (in seconds)","pass",1.1285849,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"29","can style .Rmd files","runtime (in seconds)","pass",1.1692116,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"30","can style .Rmd files","runtime (in seconds)","pass",1.1561515,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"31","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0698905,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"32","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0752331,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"33","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0683469,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"34","test-rmd.R","runtime (in seconds)","pass",1.1548401,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"35","test-rmd.R","runtime (in seconds)","pass",1.1774777,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"36","test-rmd.R","runtime (in seconds)","pass",1.0736385,"update commit n","78d3e1bf7e0f85fcf88e44193129d6dd2ff2b3d3",2022-08-27 18:33:18
+"37","can style .Rmd files","runtime (in seconds)","pass",1.1417948,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"38","can style .Rmd files","runtime (in seconds)","pass",1.1644901,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"39","can style .Rmd files","runtime (in seconds)","pass",1.2604171,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"40","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0708788,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"41","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0757347,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"42","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0694371,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"43","test-rmd.R","runtime (in seconds)","pass",1.1519021,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"44","test-rmd.R","runtime (in seconds)","pass",1.1221295,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"45","test-rmd.R","runtime (in seconds)","pass",1.1259622,"update","638932bfa816553b51556866cd48cb36cff10891",2022-08-27 18:19:48
+"46","can style .Rmd files","runtime (in seconds)","pass",1.1053962,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"47","can style .Rmd files","runtime (in seconds)","pass",1.1285021,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"48","can style .Rmd files","runtime (in seconds)","pass",1.1304734,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"49","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0697238,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"50","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0691113,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"51","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0778366,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"52","test-rmd.R","runtime (in seconds)","pass",1.1368355,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"53","test-rmd.R","runtime (in seconds)","pass",1.0772118,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"54","test-rmd.R","runtime (in seconds)","pass",1.0747432,"updaten header","232854034738df8297761df3a4b5d3dd1c5dac71",2022-08-27 17:33:17
+"55","can style .Rmd files","runtime (in seconds)","pass",1.1262218,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"56","can style .Rmd files","runtime (in seconds)","pass",1.1244064,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"57","can style .Rmd files","runtime (in seconds)","pass",1.1456049,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"58","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0691488,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"59","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0676324,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"60","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0765999,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"61","test-rmd.R","runtime (in seconds)","pass",1.1288841,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"62","test-rmd.R","runtime (in seconds)","pass",1.069771,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"63","test-rmd.R","runtime (in seconds)","pass",1.0694441,"test2","97ffa7758b529a4a57a7a49ab41f5417be549e67",2022-08-27 17:20:34
+"64","can style .Rmd files","runtime (in seconds)","pass",1.1358197,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"65","can style .Rmd files","runtime (in seconds)","pass",1.1425238,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"66","can style .Rmd files","runtime (in seconds)","pass",1.143418,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"67","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0744545,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"68","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0727642,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"69","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0773852,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"70","test-rmd.R","runtime (in seconds)","pass",1.1376706,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"71","test-rmd.R","runtime (in seconds)","pass",1.090726,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"72","test-rmd.R","runtime (in seconds)","pass",1.1900296,"test1","2c3d989bcaed5eac4f6920801535eb249bba8849",2022-08-27 17:09:50
+"73","can style .Rmd files","runtime (in seconds)","pass",1.1314088,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"74","can style .Rmd files","runtime (in seconds)","pass",1.1413395,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"75","can style .Rmd files","runtime (in seconds)","pass",1.1536434,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"76","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0717704,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"77","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0714906,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"78","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.07658,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"79","test-rmd.R","runtime (in seconds)","pass",1.1478813,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"80","test-rmd.R","runtime (in seconds)","pass",1.0887251,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"81","test-rmd.R","runtime (in seconds)","pass",1.0813051,"footer update","7187e4c40b922078493388e109aba8742614132e",2022-08-27 09:26:22
+"82","can style .Rmd files","runtime (in seconds)","pass",1.280872,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"83","can style .Rmd files","runtime (in seconds)","pass",1.1416416,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"84","can style .Rmd files","runtime (in seconds)","pass",1.160818,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"85","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0705625,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"86","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0694882,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"87","code chunks without code are returned as zero lines","runtime (in seconds)","pass",0.0797454,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"88","test-rmd.R","runtime (in seconds)","pass",1.1298286,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"89","test-rmd.R","runtime (in seconds)","pass",1.1070303,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
+"90","test-rmd.R","runtime (in seconds)","pass",1.1098777,"remove uneeded ","f07809ecf7c1c2a983359f86ec8f425d70f5b8fc",2022-08-27 02:24:57
