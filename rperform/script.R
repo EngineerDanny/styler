@@ -6,7 +6,8 @@ Rperform::plot_metrics(
   test_path = "tests/testthat/test-rmd.R",
   metric = "time", num_commits = 100,
   save_data = TRUE,
-  save_plots = TRUE
+  save_plots = TRUE,
+  total_width_in = 15,
 )
 
 
