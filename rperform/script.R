@@ -7,7 +7,7 @@ Rperform::plot_metrics(
   metric = "time", num_commits = 100,
   save_data = TRUE,
   save_plots = TRUE,
-  total_width_in = 15
+  total_width_in = 20
 )
 
 ## TEST 2
@@ -15,7 +15,8 @@ Rperform::plot_metrics(
   test_path = "tests/testthat/test-escaping.R",
   metric = "time", num_commits = 100,
   save_data = TRUE,
-  save_plots = TRUE
+  save_plots = TRUE,
+  total_width_in = 20
 )
 
 ## TEST 2
