@@ -6,6 +6,7 @@
 ^Meta$
 ^README-.*\.png$
 ^README\.Rmd$
+^Rperform$
 ^\.Rproj\.user$
 ^\.github$
 ^\.gitsum$
@@ -22,4 +23,3 @@
 ^tic\.R$
 ^touchstone$
 ^vignettes/gsoc_proposal$
-^Rperform$
